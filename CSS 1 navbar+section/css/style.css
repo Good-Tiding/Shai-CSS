@@ -1,0 +1,45 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+
+.list
+{
+    list-style-type: none;
+    color: orange;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    display: flex;
+    
+}
+
+.item
+{
+    margin: 12px;
+}
+
+.nav-menu
+{
+    background-color: rgb(69, 69, 114);
+    padding: 12px;
+}
+
+.main-image
+{
+border-radius: 10px;
+margin: auto;
+display: block; 
+border: 5px dashed rgb(18, 31, 43);
+
+}
+
+.top-section
+
+{
+  background-color: rgb(69, 69, 114) ;
+  padding: 20px;
+ 
+}

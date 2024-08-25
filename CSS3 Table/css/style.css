@@ -1,0 +1,29 @@
+*
+{
+ margin: 0px;
+ padding: 0px;
+}
+
+.table,.content,.heading
+{
+ border: 3px solid yellowgreen;  
+ border-collapse: collapse; 
+ padding: 20px;
+
+}
+
+.table
+{
+ margin: 30px auto;
+ width: 50%;
+ background-color:rgb(236, 240, 21);
+
+
+}
+
+.content
+{
+    text-align: center;
+    background-color: aquamarine;
+   
+}

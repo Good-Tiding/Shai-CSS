@@ -1,0 +1,61 @@
+*
+{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+
+body
+{
+ background-color: rgb(214, 207, 218);  
+}
+
+
+.d-flex
+{
+display: flex;
+flex-direction: column;
+
+}
+
+.form-container
+{
+   background-color: aliceblue;
+   padding: 20px; 
+   border-radius: 20px;
+   width: 500px;
+   height: 500ppx;
+   margin: 250px auto;
+
+}
+
+.form-title
+{
+text-align: center;
+font-size: 20px;
+margin: 30px;
+}
+
+
+
+.btn
+{
+
+    background-color:  rgb(214, 207, 218) ;
+    border-radius: 10px;
+    border: none ;
+    width: 300px;
+    padding: 10px;
+    font-size: larger;
+    font-weight:bold;
+    margin: auto;
+    color:rgb(7, 15, 32);
+}
+
+.input
+{
+margin: 20px;
+}
+
+
